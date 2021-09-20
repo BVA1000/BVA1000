@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m Ben Von Achen @BVA1000
 - 💻 I’m interested in becoming a Full Stack Developer
-- 👨🏻‍🎓 I have knowledge in HTML5, CSS3, JavaScript, Angular, & MySQL
+- 👨🏻‍🎓 I have knowledge in HTML5, CSS3, JavaScript, React, Angular, Express, & MySQL
 - 📚 I’m currently learning Full Stack Web Development
 - 🎨 I love being creative and programming helps me in this area 
 - 📫 You can reach me on Facebook, LinkedIn, or by email at bennyvonachen@gmail.com
