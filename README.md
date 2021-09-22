@@ -1,5 +1,5 @@
 - 👋🏻 Hi, I’m Ben Von Achen @BVA1000
-- 💻 Aspiring to become Full Stack Web Developer
+- 💻 Aspiring to become a Full Stack Web Developer
 - 👨🏻‍🎓 I have knowledge in HTML5, CSS3, JavaScript, React, Angular, Express, & MySQL
 - 📚 I’m currently studying at Bethel School of Technology
 - 🎨 I love being creative and programming helps me in this area 
