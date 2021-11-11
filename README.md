@@ -1,8 +1,9 @@
 - 👋🏻 Hi, my name is Ben Von Achen @BVA1000
-- 💻 Aspiring to become a Software Developer
-- 👨🏻‍🎓 I have knowledge in HTML, CSS, JavaScript, React.js, Angular, Bootstrap, Express, Node.js, Axios, npm, & MySQL
-- 📚 I’m currently studying at Bethel School of Technology
-- 🎨 I love being creative and programming helps me in this area 
+- 💻 I am a Software Developer
+- 📚 I have knowledge in HTML, CSS, JavaScript, React.js, Angular, Bootstrap, Express, Node.js, Axios, npm, & MySQL
+- 🏙 Particularly interested in E-Commerce Web Development
+- 👨🏻‍🎓 Bethel School of Technology Graduate
+- 🎨 I love being creative and building projects that make a difference 
 - 📫 You can reach me on LinkedIn https://www.linkedin.com/in/ben-von-achen , or by email at vonachenben@gmail.com
 
 <!---
