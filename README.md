@@ -1,6 +1,6 @@
 - 👋🏻 Hi, my name is Ben Von Achen @BVA1000
 - 💻 I am a Software Developer
-- 📚 I have knowledge in HTML, CSS, JavaScript, React.js, Angular, Bootstrap, Express.js, Node.js, npm, & MySQL
+- 📚 I have knowledge in HTML, CSS, JavaScript, React.js, Angular, Bootstrap, Material UI, Express.js, Node.js, npm, & MySQL
 - 🏙 Particularly interested in E-Commerce & Frontend Web Development
 - 👨🏻‍🎓 Bethel School of Technology Graduate
 - 🎨 I love being creative and building projects that make a difference 
