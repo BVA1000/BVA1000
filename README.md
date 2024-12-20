@@ -1,4 +1,4 @@
-Hi, my name is Ben Von Achen @BVA1000
+Hi, my name is Ben Von Achen
 
 - I am a Software Developer with the passion to learn and grow through every problem faced with.
 - I am detail oriented and develop the best work possible with the intent of building software for the greatest good.
