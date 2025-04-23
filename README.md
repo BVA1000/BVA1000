@@ -1,6 +1,6 @@
-Hi, my name is Ben Von Achen
+Hello, my name is Bernard Von Achen
 
-- I am an IT Specialist for Rently.tech, where we build car rental management software for many different clients around the world.
+- I am an IT Specialist / Software developer for Rently.tech, where we build car rental management software for many different clients around the world.
 - I am detail oriented and develop the best work possible with the intent of building software for the greatest good, with the passion to learn and grow through every problem faced with.
 - I have both education and work experience in areas of Software Development, as well as Relational Databases, Business Analysis, and Software Architectural Design.
 
