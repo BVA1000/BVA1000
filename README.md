@@ -1,10 +1,29 @@
-Hello, my name is Bernard Von Achen
+Hello, my name is Bernard Von Achen.
 
-- I am an IT Specialist / Software Developer for Rently.tech, where we build car rental management software for many different clients around the world.
-- I am detail oriented and develop the best work possible with the intent of building software for the greatest good, with the passion to learn and grow through every problem faced with.
-- I have both education and work experience in areas of Software Development, as well as Relational Databases, Business Analysis, and Software Architectural Design.
+I am a software developer with experience working across both technology startups and structured enterprise environments. My work focuses on building reliable software systems, modern web applications, and data-driven platforms that solve real operational problems for businesses.
 
-You can reach me on LinkedIn https://www.linkedin.com/in/ben-von-achen , or by email at vonachenben@gmail.com or benvonachen@yandex.ru.
+I have contributed to projects ranging from startup product development to enterprise software platforms, where clear architecture, maintainability, and disciplined engineering practices are critical. My experience spans software development, business analysis, and system design, allowing me to bridge the gap between technical implementation and real business requirements.
+
+Technically, I work primarily with modern web technologies such as JavaScript/TypeScript, Vue, React, Next.js, Node.js, and PostgreSQL, while also maintaining familiarity with enterprise stacks including .NET and C#. I enjoy designing systems that are both scalable and maintainable, and I approach development with a focus on long-term stability and continuous improvement.
+
+Outside of coding, I am deeply interested in software architecture, workflow optimization, and building engineering processes that help teams deliver reliable software efficiently.
+
+### Technologies
+
+Frontend  
+React • Next.js • Vue • TypeScript • TailwindCSS
+
+Backend  
+Node.js • Express • REST APIs • PostgreSQL
+
+Other  
+System Design • Business Analysis • Software Architecture
+
+You can reach me on LinkedIn:  
+https://www.linkedin.com/in/bernardvonachen/
+
+Email:  
+bernardvonachen@gmail.com
 
 <!---
 BVA1000/BVA1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
