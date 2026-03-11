@@ -11,10 +11,10 @@ Outside of coding, I am deeply interested in software architecture, workflow opt
 ### Technologies
 
 Frontend  
-React • Next.js • Vue • TypeScript • TailwindCSS
+JavaScript/TypeScript • Vue • Next.js • React • TailwindCSS
 
 Backend  
-Node.js • Express • REST APIs • PostgreSQL
+Node.js • Express • REST APIs • SQL • PostgreSQL
 
 Other  
 System Design • Business Analysis • Software Architecture
@@ -24,7 +24,6 @@ https://www.linkedin.com/in/bernardvonachen/
 
 Email:  
 bernardvonachen@gmail.com
-
 <!---
 BVA1000/BVA1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
